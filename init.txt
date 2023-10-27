@@ -10,3 +10,5 @@ SELECT * FROM mysql.user;
 quit;
 
 mysql-ctl restart
+
+# End of commands
